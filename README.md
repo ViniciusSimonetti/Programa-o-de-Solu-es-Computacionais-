@@ -1,2 +1,2 @@
-Exercicios de programa de soluções computacionais 
-Pratica 01
+Exercicios de programa de soluções computacionais + treino de logica
+
